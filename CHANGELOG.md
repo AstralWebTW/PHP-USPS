@@ -1,0 +1,1 @@
+# astralweb/php-stamps Changelog
